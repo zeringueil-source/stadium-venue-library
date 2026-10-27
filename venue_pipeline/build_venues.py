@@ -20,6 +20,8 @@ Standard library only.  Usage:
   python build_venues.py --only lane-stadium   # one or more slugs (comma list)
   python build_venues.py --limit 5             # first N (testing)
   python build_venues.py --cache cache_dir     # read/write raw Overpass responses
+  python build_venues.py --max-minutes 320 --stale-days 6
+      # stop cleanly before a time limit; skip venues rebuilt in the last 6 days (runs resume where they left off)
 """
 import argparse, csv, json, math, os, re, sys, time, unicodedata, urllib.parse, urllib.request
 from datetime import datetime, timezone
@@ -142,7 +144,7 @@ def principal_axis(pts):
 
 # ----------------------------------------------------------------------------- OSM
 def overpass_query(lat, lon):
-    r, rb = 700, BUILDING_RADIUS_M + 300
+    r, rb = 700, BUILDING_RADIUS_M + 150
     return f"""[out:json][timeout:90];
 (
   way(around:{r},{lat},{lon})["leisure"="stadium"];
@@ -457,7 +459,10 @@ def main():
     ap.add_argument('--limit', type=int, default=0)
     ap.add_argument('--cache', default='')
     ap.add_argument('--sleep', type=float, default=4.0)
+    ap.add_argument('--max-minutes', type=float, default=0, help='stop cleanly after this many minutes (0 = no limit)')
+    ap.add_argument('--stale-days', type=float, default=0, help='skip venues rebuilt within this many days (ignored with --only)')
     a = ap.parse_args()
+    t_start = time.time()
 
     with open(a.csv, newline='', encoding='utf-8') as f:
         rows = list(csv.DictReader(f))
@@ -470,8 +475,6 @@ def main():
         r['lon'] = float(r['lon']) if r.get('lon') else None
     only = {s.strip() for s in a.only.split(',') if s.strip()}
     todo = [r for r in rows if not only or r['slug'] in only]
-    if a.limit:
-        todo = todo[:a.limit]
 
     os.makedirs(a.out, exist_ok=True)
     os.makedirs(os.path.join(a.out, 'edits'), exist_ok=True)
@@ -485,8 +488,35 @@ def main():
         with open(index_path) as f:
             index = {v['slug']: v for v in json.load(f).get('venues', [])}
 
+    def write_outputs():
+        with open(index_path, 'w', encoding='utf-8') as f:
+            json.dump({'schema': SCHEMA, 'generated': datetime.now(timezone.utc).isoformat(timespec='seconds'),
+                       'count': len(index), 'venues': sorted(index.values(), key=lambda x: x['name'])}, f, ensure_ascii=False, indent=0)
+        with open(os.path.join(a.out, 'coverage.csv'), 'w', newline='', encoding='utf-8') as f:
+            w = csv.writer(f)
+            w.writerow(['slug', 'name', 'leagues', 'outline', 'field', 'modeled_zones', 'modeled_concourses', 'buildings', 'gates', 'elevators', 'traced_features', 'notes', 'updated'])
+            for x in sorted(index.values(), key=lambda x: x['name']):
+                c = x['coverage']
+                w.writerow([x['slug'], x['name'], x['leagues'], c['outline'], c['field'], c['modeled_zones'], c['modeled_concourses'],
+                            c['buildings'], c['gates'], c['elevators'], c.get('traced_features', 0), c['notes'], x.get('updated', '')])
+
+    # Resume: venues never built come first, then the oldest; venues rebuilt recently are skipped.
+    if not only:
+        todo.sort(key=lambda r: (r['slug'] in index, index.get(r['slug'], {}).get('updated', '')))
+        if a.stale_days:
+            cutoff = (datetime.now(timezone.utc).timestamp() - a.stale_days * 86400)
+            fresh = lambda r: r['slug'] in index and datetime.fromisoformat(index[r['slug']]['updated']).replace(tzinfo=timezone.utc).timestamp() > cutoff
+            skipped = sum(1 for r in todo if fresh(r))
+            todo = [r for r in todo if not fresh(r)]
+            print(f'{skipped} venues rebuilt within {a.stale_days:g} days are skipped; {len(todo)} to build this run', flush=True)
+    if a.limit:
+        todo = todo[:a.limit]
+
     failures = streak = ok = 0
     for i, v in enumerate(todo, 1):
+        if a.max_minutes and (time.time() - t_start) / 60 > a.max_minutes:
+            print(f'time budget of {a.max_minutes:g} minutes reached; stopping cleanly. The next run continues from here.', flush=True)
+            break
         cached = True
         try:
             if v['lat'] is None:
@@ -516,6 +546,7 @@ def main():
             print(f"[{i}/{len(todo)}] {v['slug']}: outline={cov['outline']} field={cov['field']} zones={cov['modeled_zones']} "
                   f"bldgs={cov['buildings']} gates={cov['gates']} {cov['notes']}", flush=True)
             streak = 0; ok += 1
+            write_outputs()  # save progress after every venue so a cancelled/timed-out run loses nothing
         except Exception as e:
             failures += 1; streak += 1
             print(f"[{i}/{len(todo)}] {v['slug']}: FAILED {e}", flush=True)
@@ -525,16 +556,7 @@ def main():
         if not cached:
             time.sleep(a.sleep)
 
-    with open(index_path, 'w', encoding='utf-8') as f:
-        json.dump({'schema': SCHEMA, 'generated': datetime.now(timezone.utc).isoformat(timespec='seconds'),
-                   'count': len(index), 'venues': sorted(index.values(), key=lambda x: x['name'])}, f, ensure_ascii=False, indent=0)
-    with open(os.path.join(a.out, 'coverage.csv'), 'w', newline='', encoding='utf-8') as f:
-        w = csv.writer(f)
-        w.writerow(['slug', 'name', 'leagues', 'outline', 'field', 'modeled_zones', 'modeled_concourses', 'buildings', 'gates', 'elevators', 'traced_features', 'notes'])
-        for x in sorted(index.values(), key=lambda x: x['name']):
-            c = x['coverage']
-            w.writerow([x['slug'], x['name'], x['leagues'], c['outline'], c['field'], c['modeled_zones'], c['modeled_concourses'],
-                        c['buildings'], c['gates'], c['elevators'], c.get('traced_features', 0), c['notes']])
+    write_outputs()
     print(f'done: {ok} ok, {failures} failed, {len(todo) - ok - failures} not attempted, index has {len(index)} venues')
     # Fail loudly only if most of the run failed (e.g. Overpass down), so partial outages don't wipe nothing but still show red
     if todo and (failures > len(todo) / 2 or streak >= 8):
