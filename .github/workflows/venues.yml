@@ -1,0 +1,45 @@
+name: Build venue library
+
+on:
+  schedule:
+    - cron: '17 7 * * 0'   # every Sunday, 2:17 AM Central (CDT)
+  workflow_dispatch:
+    inputs:
+      only:
+        description: 'Stadium slugs to rebuild, comma-separated (leave blank for all)'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+concurrency:
+  group: venue-library
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Build venue layouts from OpenStreetMap
+        run: python venue_pipeline/build_venues.py --csv venue_pipeline/venues.csv --out venues --only "${{ github.event.inputs.only }}"
+
+      - name: Commit results
+        if: always()
+        run: |
+          git config user.name "venue-library-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add venues
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update venue library ($(date -u +%Y-%m-%d))"
+            for i in 1 2 3; do git pull --rebase && git push && break; sleep 5; done
+          fi
