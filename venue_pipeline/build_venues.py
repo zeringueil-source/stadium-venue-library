@@ -59,7 +59,7 @@ def slugify(s):
     return re.sub(r'[^a-z0-9]+', '-', s).strip('-') or 'venue'
 
 
-def http(url, data=None, timeout=180):
+def http(url, data=None, timeout=60):
     req = urllib.request.Request(url, data=data.encode() if data else None, headers={'User-Agent': UA})
     with urllib.request.urlopen(req, timeout=timeout) as r:
         return r.read().decode('utf-8')
@@ -164,7 +164,7 @@ def fetch_osm(lat, lon, cache_path=None):
         with open(cache_path) as f:
             return json.load(f), True
     q = overpass_query(lat, lon); last = None
-    for attempt in range(4):
+    for attempt in range(3):
         ep = OVERPASS[attempt % len(OVERPASS)]
         try:
             js = json.loads(http(ep, 'data=' + urllib.parse.quote(q)))
