@@ -2,7 +2,7 @@ name: Build venue library
 
 on:
   schedule:
-    - cron: '17 7 * * 0'   # every Sunday, 2:17 AM Central (CDT)
+    - cron: '17 7 * * *'   # daily, 2:17 AM Central (CDT); venues rebuilt in the last 6 days are skipped
   workflow_dispatch:
     inputs:
       only:
@@ -20,7 +20,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 300
+    timeout-minutes: 350
     steps:
       - uses: actions/checkout@v4
 
@@ -29,7 +29,7 @@ jobs:
           python-version: '3.12'
 
       - name: Build venue layouts from OpenStreetMap
-        run: python venue_pipeline/build_venues.py --csv venue_pipeline/venues.csv --out venues --only "${{ github.event.inputs.only }}"
+        run: python venue_pipeline/build_venues.py --csv venue_pipeline/venues.csv --out venues --max-minutes 320 --stale-days 6 --only "${{ github.event.inputs.only }}"
 
       - name: Commit results
         if: always()
