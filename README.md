@@ -29,9 +29,11 @@ It also writes `venues/index.json`, the list the dashboard searches, and `venues
 
 ## Running it
 
-**Actions → Build venue library → Run workflow**. A full run takes roughly 30–60 minutes because it pauses between OpenStreetMap requests to stay within their usage policy. After that it rebuilds every Sunday at 2:17 AM Central. To rebuild a few stadiums, enter their slugs in the run box, e.g. `kroger-field-at-c-m-newton-grounds`.
+The workflow runs every night at 2:17 AM Central and rebuilds only venues older than 6 days, so each stadium refreshes about once a week. To run it now: **Actions → Build venue library → Run workflow**. To rebuild a few stadiums, enter their slugs in the run box, e.g. `kroger-field-at-c-m-newton-grounds`.
 
-If OpenStreetMap's server is down, the run stops after 8 failures in a row, keeps the existing files and shows red. Run it again later.
+Each stadium takes about a minute, because OpenStreetMap queries are slow and the pipeline pauses between them to stay within their usage policy. One run stops cleanly after about 5 hours, and progress is saved after every stadium. The first full build of all 338 venues therefore takes two runs.
+
+If OpenStreetMap's server is down, the run stops after 8 failures in a row, keeps the existing files and shows red. The next night's run picks up again.
 
 ## Replacing modeled zones with real ones
 
