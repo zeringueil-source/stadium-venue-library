@@ -1,56 +1,139 @@
 slug,name,leagues,outline,field,modeled_zones,modeled_concourses,buildings,gates,elevators,traced_features,notes,updated
+a-w-mumford-stadium,A. W. Mumford Stadium,FCS,True,True,8,8,27,0,0,0,,2026-10-28
+asu-stadium,ASU Stadium,FCS,True,True,8,8,23,0,0,0,,2026-10-28
+at-t-stadium,AT&T Stadium,NFL,True,True,8,8,13,0,0,0,retractable roof: modeled plan applies when the roof is open,2026-10-28
 acrisure-bounce-house,Acrisure Bounce House,FBS,True,True,8,8,9,0,0,0,,2026-10-27
 acrisure-stadium,Acrisure Stadium,FBS/NFL,True,True,8,8,30,2,0,0,,2026-10-27
 aggie-memorial-stadium,Aggie Memorial Stadium,FBS,True,True,8,8,10,0,0,0,,2026-10-27
 alamodome,Alamodome,FBS,True,False,8,8,18,0,0,0,"no playing field mapped; field assumed at 45% of outline; domed venue: the bowl itself is enclosed; lightning shelter is mainly for plazas, lots and tailgates",2026-10-27
 albertsons-stadium,Albertsons Stadium,FBS,True,True,0,0,30,0,0,0,field centre outside stadium outline; seating not modeled,2026-10-27
+alerus-center,Alerus Center,FCS,True,False,8,8,19,0,0,0,"no playing field mapped; field assumed at 45% of outline; domed venue: the bowl itself is enclosed; lightning shelter is mainly for plazas, lots and tailgates",2026-10-28
 allegacy-federal-credit-union-stadium,Allegacy Federal Credit Union Stadium,FBS,True,True,7,7,17,0,0,0,,2026-10-27
 allegiant-stadium,Allegiant Stadium,FBS/NFL,True,False,8,8,30,11,0,0,no playing field mapped; field assumed at 45% of outline; skylight roof: modeled plan applies when the roof is open,2026-10-27
 allen-e-paulson-stadium,Allen E. Paulson Stadium,FBS,True,True,8,8,30,0,0,0,,2026-10-27
+allianz-field,Allianz Field,MLS,True,True,8,8,30,0,0,0,,2026-10-28
+alumni-memorial-field,Alumni Memorial Field,FCS,True,True,8,8,27,10,0,0,,2026-10-28
 alumni-stadium-chestnut-hill,Alumni Stadium,FBS,True,True,8,8,28,3,0,0,,2026-10-27
+alumni-stadium-dover,Alumni Stadium,FCS,True,True,8,8,25,0,0,0,,2026-10-28
+america-first-field,America First Field,MLS,True,True,8,8,30,5,0,0,,2026-10-28
+american-family-field,American Family Field,MLB,True,True,8,7,10,39,0,0,retractable roof: modeled plan applies when the roof is open,2026-10-28
 amon-g-carter-stadium,Amon G. Carter Stadium,FBS,True,True,8,8,30,0,0,0,,2026-10-27
+angel-stadium,Angel Stadium,MLB,True,True,0,0,6,0,0,0,field centre outside stadium outline; seating not modeled,2026-10-28
+anthony-field-at-wildcat-stadium,Anthony Field at Wildcat Stadium,FCS,True,True,8,8,19,0,0,0,,2026-10-28
+armstrong-stadium,Armstrong Stadium,FCS,True,True,8,8,30,1,0,0,,2026-10-28
+arrowhead-stadium,Arrowhead Stadium,NFL,True,True,8,8,1,0,0,0,,2026-10-28
+arthur-j-rooney-athletic-field,Arthur J. Rooney Athletic Field,FCS,True,True,4,3,30,0,0,0,,2026-10-28
 arthur-l-williams-stadium,Arthur L. Williams Stadium,FBS,True,True,8,8,18,0,0,0,,2026-10-27
+audi-field,Audi Field,MLS,True,True,8,8,24,0,0,0,,2026-10-28
 autzen-stadium,Autzen Stadium,FBS,True,True,8,8,20,0,0,0,,2026-10-27
+bmo-stadium,BMO Stadium,MLS,True,True,8,8,30,0,0,0,,2026-10-28
+bailey-memorial-stadium,Bailey Memorial Stadium,FCS,True,True,8,8,5,0,0,0,,2026-10-28
+barker-lane-stadium,Barker–Lane Stadium,FCS,True,True,8,8,7,0,0,0,,2026-10-28
 blaik-field-at-michie-stadium,Blaik Field at Michie Stadium,FBS,True,True,8,8,16,0,0,0,,2026-10-27
+bobby-bowden-field-at-doak-s-campbell-stadium,Bobby Bowden Field at Doak S. Campbell Stadium,FBS,True,True,8,8,23,0,0,0,,2026-10-28
 bobby-dodd-stadium-at-hyundai-field,Bobby Dodd Stadium at Hyundai Field,FBS,True,True,8,8,30,29,2,0,,2026-10-27
+bobby-wallace-field-at-bank-independent-stadium,Bobby Wallace Field at Bank Independent Stadium,FCS,False,False,0,0,23,24,0,0,no stadium outline in OSM; seating not modeled,2026-10-28
+bobcat-stadium,Bobcat Stadium,FCS,True,True,8,8,30,0,0,0,,2026-10-28
 boone-pickens-stadium,Boone Pickens Stadium,FBS,True,True,8,8,30,0,0,0,,2026-10-27
+bragg-memorial-stadium,Bragg Memorial Stadium,FCS,True,True,6,6,23,16,0,0,,2026-10-28
 bridgeforth-stadium,Bridgeforth Stadium,FBS,True,True,8,8,30,0,0,0,,2026-10-27
+brigham-field-at-huskie-stadium,Brigham Field at Huskie Stadium,FBS,True,True,8,8,24,6,0,0,,2026-10-28
 brooks-field-at-wallace-wade-stadium,Brooks Field at Wallace Wade Stadium,FBS,True,True,8,8,21,0,0,0,,2026-10-27
 brooks-stadium,Brooks Stadium,FBS,True,True,7,7,15,0,0,0,,2026-10-27
+brown-field,Brown Field,FCS,False,True,0,0,18,1,0,0,no stadium outline in OSM; seating not modeled,2026-10-28
+buccaneer-field,Buccaneer Field,FCS,False,True,0,0,24,0,0,0,no stadium outline in OSM; seating not modeled,2026-10-28
 burgess-snow-field-at-amfirst-stadium,Burgess–Snow Field at AmFirst Stadium,FBS,True,True,7,7,21,1,0,0,,2026-10-27
+busch-stadium,Busch Stadium,MLB,True,True,8,8,30,14,0,0,,2026-10-28
 cefcu-stadium,CEFCU Stadium,FBS,True,True,8,8,30,0,0,0,,2026-10-27
+caesars-superdome,Caesars Superdome,NFL,True,False,8,8,30,4,0,0,"no playing field mapped; field assumed at 45% of outline; domed venue: the bowl itself is enclosed; lightning shelter is mainly for plazas, lots and tailgates",2026-10-28
+cajun-field,Cajun Field,FBS,True,True,8,8,16,0,0,0,,2026-10-28
 california-memorial-stadium,California Memorial Stadium,FBS,True,True,8,8,30,4,2,0,,2026-10-27
 camp-randall-stadium,Camp Randall Stadium,FBS,True,True,8,8,30,2,0,0,,2026-10-27
+campus-field,Campus Field,FCS,False,True,0,0,14,18,0,0,no stadium outline in OSM; seating not modeled,2026-10-28
 carl-smith-center-home-of-david-a-harrison-iii-field-at-scott-stadium,"Carl Smith Center, Home of David A. Harrison III Field at Scott Stadium",FBS,True,True,8,8,19,59,0,0,,2026-10-27
 carlisle-faulkner-field-at-m-m-roberts-stadium,Carlisle-Faulkner Field at M.M. Roberts Stadium,FBS,True,True,7,7,30,0,0,0,,2026-10-27
+casem-spinks-stadium,Casem-Spinks Stadium,FCS,False,True,0,0,4,0,0,0,no stadium outline in OSM; seating not modeled,2026-10-28
 casino-del-sol-stadium,Casino Del Sol Stadium,FBS,True,True,8,8,30,5,0,0,,2026-10-27
 centennial-bank-stadium,Centennial Bank Stadium,FBS,True,True,8,8,11,0,0,0,,2026-10-27
 center-parc-stadium,Center Parc Stadium,FBS,True,True,8,8,26,0,0,0,,2026-10-27
+chase-field,Chase Field,MLB,True,False,8,8,30,3,0,0,no playing field mapped; field assumed at 45% of outline; retractable roof: modeled plan applies when the roof is open,2026-10-28
+christy-mathewson-memorial-stadium,Christy Mathewson–Memorial Stadium,FCS,True,True,8,8,17,2,0,0,,2026-10-28
+citi-field,Citi Field,MLB,True,True,8,8,27,0,0,0,,2026-10-28
+citizens-bank-park,Citizens Bank Park,MLB,True,True,8,8,9,0,0,0,,2026-10-28
 clarence-t-c-ching-athletics-complex,Clarence T. C. Ching Athletics Complex,FBS,False,True,0,0,28,3,0,0,no stadium outline in OSM; seating not modeled,2026-10-27
+coffey-field,Coffey Field,FCS,False,True,0,0,25,6,0,0,no stadium outline in OSM; seating not modeled,2026-10-28
+comerica-park,Comerica Park,MLB,True,True,8,8,30,5,0,0,,2026-10-28
+cooper-field,Cooper Field,FCS,False,True,0,0,30,4,6,0,no stadium outline in OSM; seating not modeled,2026-10-28
+crown-field-at-andy-kerr-stadium,Crown Field at Andy Kerr Stadium,FCS,True,True,8,8,12,0,0,0,,2026-10-28
 datcu-stadium,DATCU Stadium,FBS,True,True,8,8,7,0,0,0,,2026-10-27
+daikin-park,Daikin Park,MLB,True,True,8,8,30,0,0,0,retractable roof: modeled plan applies when the roof is open,2026-10-28
+dakotadome,DakotaDome,FCS,True,False,8,8,16,2,0,0,"no playing field mapped; field assumed at 45% of outline; domed venue: the bowl itself is enclosed; lightning shelter is mainly for plazas, lots and tailgates",2026-10-28
+dana-j-dykhouse-stadium,Dana J. Dykhouse Stadium,FCS,True,True,8,8,25,0,0,0,,2026-10-28
 darrell-k-royal-texas-memorial-stadium,Darrell K Royal–Texas Memorial Stadium,FBS,True,True,8,8,30,11,0,0,,2026-10-27
 david-booth-kansas-memorial-stadium,David Booth Kansas Memorial Stadium,FBS,True,True,8,8,15,0,0,0,,2026-10-27
 davis-wade-stadium-at-scott-field,Davis Wade Stadium at Scott Field,FBS,True,True,8,8,30,4,0,0,,2026-10-27
+daytona-stadium,Daytona Stadium,FCS,False,True,0,0,1,0,0,0,no stadium outline in OSM; seating not modeled,2026-10-28
 delaware-stadium,Delaware Stadium,FBS,True,True,8,8,14,0,0,0,,2026-10-27
+dick-s-sporting-goods-park,Dick's Sporting Goods Park,MLS,True,True,8,8,2,8,0,0,,2026-10-28
 dix-stadium,Dix Stadium,FBS,True,True,8,8,1,1,1,0,,2026-10-27
+dodger-stadium,Dodger Stadium,MLB,True,True,8,8,4,0,0,0,,2026-10-28
 donald-w-reynolds-razorback-stadium-frank-broyles-field,"Donald W. Reynolds Razorback Stadium, Frank Broyles Field",FBS,True,True,8,8,26,0,0,0,,2026-10-27
 dowdy-ficklen-stadium,Dowdy–Ficklen Stadium,FBS,True,True,8,8,15,0,0,0,,2026-10-27
+doyt-l-perry-stadium,Doyt L. Perry Stadium,FBS,True,True,8,8,3,7,1,0,,2026-10-28
+drake-stadium,Drake Stadium,FCS,True,True,8,8,28,2,0,0,,2026-10-28
+duane-stadium,Duane Stadium,FCS,True,True,7,7,30,9,0,0,,2026-10-28
+e-j-whitmire-stadium,E. J. Whitmire Stadium,FCS,True,True,6,6,12,4,0,0,,2026-10-28
+eccles-coliseum,Eccles Coliseum,FCS,True,True,8,8,10,6,0,0,,2026-10-28
+eddie-g-robinson-memorial-stadium,Eddie G. Robinson Memorial Stadium,FCS,True,True,8,8,19,0,0,0,,2026-10-28
 elliott-t-bowers-stadium,Elliott T. Bowers Stadium,FBS,True,True,8,8,30,1,0,0,,2026-10-27
+empower-field-at-mile-high,Empower Field at Mile High,NFL,True,True,8,8,18,12,0,0,,2026-10-28
+ernest-hawkins-field-at-memorial-stadium,Ernest Hawkins Field at Memorial Stadium,FCS,True,True,8,8,30,0,0,0,,2026-10-28
+ernest-w-spangler-stadium,Ernest W. Spangler Stadium,FCS,True,True,8,8,5,0,0,0,,2026-10-28
+estes-stadium,Estes Stadium,FCS,False,True,0,0,24,83,0,0,no stadium outline in OSM; seating not modeled,2026-10-28
+everbank-stadium,EverBank Stadium,NFL,True,True,8,8,12,0,0,0,,2026-10-28
+falcon-stadium,Falcon Stadium,FBS,True,True,8,8,0,0,0,0,,2026-10-28
 faurot-field-at-memorial-stadium,Faurot Field at Memorial Stadium,FBS,True,True,8,8,23,1,0,0,,2026-10-27
+fenway-park,Fenway Park,MLB,True,True,8,8,30,21,4,0,,2026-10-28
+fifth-third-stadium,Fifth Third Stadium,FBS,True,True,8,8,15,0,0,0,,2026-10-28
+finley-stadium,Finley Stadium,FCS,True,True,8,8,30,0,0,0,,2026-10-28
+first-community-stadium,First Community Stadium,FBS,True,True,8,8,18,31,0,0,,2026-10-28
+firstbank-stadium,FirstBank Stadium,FBS,True,True,7,7,30,0,0,0,,2026-10-28
+fisher-stadium,Fisher Stadium,FCS,True,True,0,0,30,35,0,0,field centre outside stadium outline; seating not modeled,2026-10-28
+folsom-field,Folsom Field,FBS,True,True,0,0,30,22,0,0,field centre outside stadium outline; seating not modeled,2026-10-28
+fortera-stadium,Fortera Stadium,FCS,True,True,8,8,26,11,0,0,,2026-10-28
 frank-howard-field-at-clemson-memorial-stadium,Frank Howard Field at Clemson Memorial Stadium,FBS,True,True,8,8,22,0,0,0,,2026-10-27
 frank-solich-field-at-peden-stadium,Frank Solich Field at Peden Stadium,FBS,True,True,8,8,16,3,0,0,,2026-10-27
+franklin-field,Franklin Field,FCS,True,True,8,8,30,14,0,0,,2026-10-28
 fred-c-yager-stadium,Fred C. Yager Stadium,FBS,True,True,8,8,4,6,0,0,,2026-10-27
 galaxy-stadium,Galaxy Stadium,FBS,True,True,8,8,30,0,0,0,,2026-10-27
+gayle-and-tom-benson-stadium,Gayle and Tom Benson Stadium,FCS,True,True,8,8,26,0,0,0,,2026-10-28
 gaylord-family-oklahoma-memorial-stadium,Gaylord Family Oklahoma Memorial Stadium,FBS,True,True,8,8,30,6,0,0,,2026-10-27
+geodis-park,Geodis Park,MLS,True,True,8,8,16,7,0,0,,2026-10-28
 gerald-j-ford-stadium,Gerald J. Ford Stadium,FBS,True,True,0,0,21,0,0,0,field centre outside stadium outline; seating not modeled,2026-10-27
+gibbs-stadium,Gibbs Stadium,FCS,True,True,7,7,29,0,0,0,,2026-10-28
 gies-memorial-stadium,Gies Memorial Stadium,FBS,True,True,8,8,10,0,0,0,,2026-10-27
+gillette-stadium,Gillette Stadium,NFL/MLS,True,True,8,8,21,0,0,0,,2026-10-28
 glass-bowl,Glass Bowl,FBS,True,True,8,8,18,38,0,0,,2026-10-27
+globe-life-field,Globe Life Field,MLB,True,False,8,8,25,0,0,0,no playing field mapped; field assumed at 45% of outline; retractable roof: modeled plan applies when the roof is open,2026-10-28
+goodman-stadium,Goodman Stadium,FCS,True,True,8,8,1,0,0,0,,2026-10-28
+great-american-ball-park,Great American Ball Park,MLB,True,True,8,8,30,0,0,0,,2026-10-28
+greater-zion-stadium,Greater Zion Stadium,FCS,True,True,8,8,30,10,0,0,,2026-10-28
+hancock-stadium,Hancock Stadium,FCS,True,True,8,8,30,0,0,0,,2026-10-28
 hancock-whitney-stadium,Hancock Whitney Stadium,FBS,True,True,8,8,20,0,0,0,,2026-10-27
 hard-rock-stadium,Hard Rock Stadium,FBS/NFL,True,True,8,8,4,0,0,0,,2026-10-27
+harry-turpin-stadium,Harry Turpin Stadium,FCS,False,True,0,0,21,0,0,0,no stadium outline in OSM; seating not modeled,2026-10-28
+harvard-stadium,Harvard Stadium,FCS,True,True,8,8,30,4,0,0,,2026-10-28
+hillsboro-stadium,Hillsboro Stadium,FCS,True,True,8,8,16,0,0,0,,2026-10-28
+homer-bryce-stadium,Homer Bryce Stadium,FCS,True,True,8,8,30,0,0,0,,2026-10-28
 hornet-stadium,Hornet Stadium,FBS,False,True,0,0,23,16,0,0,no stadium outline in OSM; seating not modeled,2026-10-27
 houchens-industries-l-t-smith-stadium-at-jimmy-feix-field,Houchens Industries–L. T. Smith Stadium at Jimmy Feix Field,FBS,True,True,7,7,26,4,0,0,,2026-10-27
 howard-schnellenberger-field-at-flagler-credit-union-stadium,Howard Schnellenberger Field at Flagler Credit Union Stadium,FBS,True,True,8,8,30,0,0,0,,2026-10-27
+hughes-stadium,Hughes Stadium,FCS,True,True,8,8,30,0,0,0,,2026-10-28
+huntington-bank-field,Huntington Bank Field,NFL,True,True,8,8,17,2,0,0,,2026-10-28
+husky-stadium-seattle,Husky Stadium,FBS,True,True,8,8,30,21,3,0,,2026-10-28
+iccu-dome,ICCU Dome,FCS,True,False,8,8,16,0,0,0,"no playing field mapped; field assumed at 45% of outline; domed venue: the bowl itself is enclosed; lightning shelter is mainly for plazas, lots and tailgates",2026-10-28
 infocision-stadium-summa-field,InfoCision Stadium–Summa Field,FBS,True,True,8,8,21,0,0,0,,2026-10-27
+inter-co-stadium,Inter.co Stadium,MLS,True,True,8,8,30,1,0,0,,2026-10-28
 jma-wireless-dome,JMA Wireless Dome,FBS,True,False,8,8,30,0,0,0,"no playing field mapped; field assumed at 45% of outline; domed venue: the bowl itself is enclosed; lightning shelter is mainly for plazas, lots and tailgates",2026-10-27
 jack-trice-stadium,Jack Trice Stadium,FBS,True,True,8,8,9,3,0,0,,2026-10-27
 jim-wacker-field-at-ufcu-stadium,Jim Wacker Field at UFCU Stadium,FBS,True,True,8,8,6,0,0,0,,2026-10-27
@@ -58,45 +141,139 @@ joan-c-edwards-stadium,Joan C. Edwards Stadium,FBS,True,True,7,7,30,0,0,0,,2026-
 joe-aillet-stadium,Joe Aillet Stadium,FBS,True,True,8,8,8,0,0,0,,2026-10-27
 john-o-quinn-field-at-space-city-financial-stadium,John O'Quinn Field at Space City Financial Stadium,FBS,True,True,8,8,30,1,0,0,,2026-10-27
 johnny-red-floyd-stadium,"Johnny ""Red"" Floyd Stadium",FBS,True,True,8,8,30,0,0,0,,2026-10-27
+johnny-unitas-stadium,Johnny Unitas Stadium,FCS,True,True,8,8,21,7,0,0,,2026-10-28
+johnson-hagood-stadium,Johnson Hagood Stadium,FCS,True,True,8,8,27,2,0,0,,2026-10-28
+kauffman-stadium,Kauffman Stadium,MLB,True,True,8,8,6,0,0,0,,2026-10-28
 kenan-stadium,Kenan Stadium,FBS,True,True,8,8,30,11,2,0,,2026-10-27
+kenneth-p-lavalle-stadium,Kenneth P. LaValle Stadium,FCS,True,True,8,8,21,1,0,0,,2026-10-28
+kessler-field,Kessler Field,FCS,False,True,0,0,13,56,0,0,no stadium outline in OSM; seating not modeled,2026-10-28
 kidd-brewer-stadium,Kidd Brewer Stadium,FBS,True,True,8,8,14,6,0,0,,2026-10-27
 kinnick-stadium,Kinnick Stadium,FBS,True,True,8,8,25,11,0,0,,2026-10-27
 kroger-field-at-c-m-newton-grounds,Kroger Field at C.M. Newton Grounds,FBS,True,True,8,8,23,0,0,0,,2026-10-27
 kyle-field,Kyle Field,FBS,True,True,8,8,23,0,0,0,,2026-10-27
 l-n-federal-credit-union-stadium,L&N Federal Credit Union Stadium,FBS,True,True,8,8,30,0,0,0,,2026-10-27
 lavell-edwards-stadium,LaVell Edwards Stadium,FBS,True,True,8,8,8,2,0,0,,2026-10-27
+lambeau-field,Lambeau Field,NFL,True,True,8,8,13,0,0,0,,2026-10-28
+lane-stadium-worsham-field,Lane Stadium/Worsham Field,FBS,True,True,8,8,19,6,0,0,,2026-10-28
+levi-s-stadium,Levi's Stadium,NFL,True,True,8,8,19,18,0,0,,2026-10-28
 lincoln-financial-field,Lincoln Financial Field,FBS/NFL,True,True,8,8,3,0,0,0,,2026-10-27
+loandepot-park,LoanDepot Park,MLB,True,False,8,8,30,1,0,0,no playing field mapped; field assumed at 45% of outline; retractable roof: modeled plan applies when the roof is open,2026-10-28
 los-angeles-memorial-coliseum,Los Angeles Memorial Coliseum,FBS,True,True,8,8,30,1,0,0,,2026-10-27
+louis-crews-stadium,Louis Crews Stadium,FCS,True,True,8,8,5,0,0,0,,2026-10-28
+lucas-oil-stadium,Lucas Oil Stadium,NFL,True,False,8,8,30,2,0,0,no playing field mapped; field assumed at 45% of outline; retractable roof: modeled plan applies when the roof is open,2026-10-28
+lumen-field,Lumen Field,NFL/MLS,True,True,8,8,30,4,0,0,,2026-10-28
+m-t-bank-stadium,M&T Bank Stadium,NFL,True,True,8,8,30,1,0,0,,2026-10-28
 mackay-stadium,Mackay Stadium,FBS,True,True,8,8,30,5,0,0,,2026-10-27
 malone-stadium,Malone Stadium,FBS,True,True,8,8,8,0,0,0,,2026-10-27
+manning-field-at-john-l-guidry-stadium,Manning Field at John L. Guidry Stadium,FCS,True,True,6,6,28,0,0,0,,2026-10-28
 martin-stadium,Martin Stadium,FBS,True,True,8,8,30,0,1,0,,2026-10-27
 mccoll-richardson-field-at-jerry-richardson-stadium,McColl–Richardson Field at Jerry Richardson Stadium,FBS,True,True,8,8,25,13,0,0,,2026-10-27
+mclane-stadium,McLane Stadium,FBS,True,True,8,8,5,0,0,0,,2026-10-28
+meade-stadium,Meade Stadium,FCS,True,False,8,8,19,0,0,0,no playing field mapped; field assumed at 45% of outline,2026-10-28
+memorial-field,Memorial Field,FCS,False,True,0,0,30,7,0,0,no stadium outline in OSM; seating not modeled,2026-10-28
+memorial-stadium-terre-haute,Memorial Stadium,FCS,True,True,8,8,11,0,0,0,,2026-10-28
+memorial-stadium-stephenville,Memorial Stadium,FCS,False,True,0,0,11,4,0,0,no stadium outline in OSM; seating not modeled,2026-10-28
 memorial-stadium-tom-osborne-field,"Memorial Stadium, Tom Osborne Field",FBS,True,True,8,8,30,13,0,0,,2026-10-27
+mercedes-benz-stadium,Mercedes-Benz Stadium,NFL/MLS,True,False,8,8,28,1,0,0,no playing field mapped; field assumed at 45% of outline; retractable roof: modeled plan applies when the roof is open,2026-10-28
 merchants-bank-field-at-memorial-stadium,Merchants Bank Field at Memorial Stadium,FBS,True,True,8,8,11,0,0,0,,2026-10-27
 merlin-olsen-field-at-maverik-stadium,Merlin Olsen Field at Maverik Stadium,FBS,True,True,8,8,30,0,1,0,,2026-10-27
+metlife-stadium,MetLife Stadium,NFL,True,True,8,8,3,5,1,0,,2026-10-28
 michigan-stadium,Michigan Stadium,FBS,True,True,8,8,30,5,0,0,,2026-10-27
+mississippi-veterans-memorial-stadium,Mississippi Veterans Memorial Stadium,FCS,True,True,8,8,4,0,0,0,,2026-10-28
 mountain-america-stadium,Mountain America Stadium,FBS,True,True,8,8,30,0,0,0,,2026-10-27
 mountaineer-field-at-milan-puskar-stadium,Mountaineer Field at Milan Puskar Stadium,FBS,True,True,8,8,10,0,0,0,,2026-10-27
+mustang-memorial-field,Mustang Memorial Field,FCS,True,True,8,8,30,2,0,0,,2026-10-28
+nationals-park,Nationals Park,MLB,True,True,8,8,30,10,0,0,,2026-10-28
 navy-marine-corps-memorial-stadium,Navy–Marine Corps Memorial Stadium,FBS,True,True,8,8,8,0,0,0,,2026-10-27
 neyland-stadium,Neyland Stadium,FBS,True,True,8,8,30,5,0,0,,2026-10-27
 nippert-stadium,Nippert Stadium,FBS,True,True,8,8,30,9,0,0,,2026-10-27
+northwest-stadium,Northwest Stadium,NFL,True,True,8,8,4,0,0,0,,2026-10-28
 notre-dame-stadium,Notre Dame Stadium,FBS,True,True,8,8,30,26,0,0,,2026-10-27
+nottingham-field,Nottingham Field,FCS,True,True,8,8,6,0,0,0,,2026-10-28
+nu-stadium,Nu Stadium,MLS,True,True,8,8,11,3,0,0,,2026-10-28
+o-kelly-riddick-stadium,O'Kelly–Riddick Stadium,FCS,True,True,7,7,30,0,0,0,,2026-10-28
+o-shaughnessy-stadium,O'Shaughnessy Stadium,FCS,True,True,8,8,19,2,0,0,,2026-10-28
 ohio-stadium,Ohio Stadium,FBS,True,True,8,8,30,35,0,0,,2026-10-27
+oliver-c-dawson-stadium,Oliver C. Dawson Stadium,FCS,True,True,8,8,20,0,0,0,,2026-10-28
+oracle-park,Oracle Park,MLB,True,True,8,8,30,5,0,0,,2026-10-28
+oriole-park-at-camden-yards,Oriole Park at Camden Yards,MLB,True,True,8,8,30,7,0,0,,2026-10-28
+o-brien-field,O’Brien Field,FCS,False,True,0,0,6,4,0,0,no stadium outline in OSM; seating not modeled,2026-10-28
+p1fcu-kibbie-dome,P1FCU Kibbie Dome,FCS,True,True,0,0,29,0,0,0,field centre outside stadium outline; seating not modeled,2026-10-28
+pnc-park,PNC Park,MLB,True,True,8,8,30,5,0,0,,2026-10-28
+paladin-stadium,Paladin Stadium,FCS,True,True,8,8,11,0,0,0,,2026-10-28
+panther-stadium,Panther Stadium,FCS,True,True,8,8,25,0,0,0,,2026-10-28
 pat-dye-field-at-jordan-hare-stadium,Pat Dye Field at Jordan–Hare Stadium,FBS,True,True,8,8,30,10,1,0,,2026-10-27
+paycor-stadium,Paycor Stadium,NFL,True,True,8,8,23,3,0,0,,2026-10-28
+petco-park,Petco Park,MLB,True,True,8,8,30,5,1,0,,2026-10-28
+phil-simms-stadium,Phil Simms Stadium,FCS,True,True,8,8,14,0,0,0,,2026-10-28
 pitbull-stadium,Pitbull Stadium,FBS,True,True,8,8,14,3,0,0,,2026-10-27
+powers-field-at-princeton-stadium,Powers Field at Princeton Stadium,FCS,True,True,8,8,30,0,0,0,,2026-10-28
 pratt-whitney-stadium-at-rentschler-field,Pratt & Whitney Stadium at Rentschler Field,FBS,True,True,8,8,8,12,0,0,,2026-10-27
+progressive-field,Progressive Field,MLB,True,True,8,8,30,11,0,0,,2026-10-28
 protective-stadium,Protective Stadium,FBS,True,True,8,8,15,0,0,0,,2026-10-27
+provost-umphrey-stadium,Provost Umphrey Stadium,FCS,True,True,8,8,19,0,0,0,,2026-10-28
+ralph-f-dellacamera-stadium,Ralph F. DellaCamera Stadium,FCS,False,True,0,0,4,0,0,0,no stadium outline in OSM; seating not modeled,2026-10-28
 raymond-james-stadium,Raymond James Stadium,FBS/NFL,True,True,8,8,10,0,0,0,,2026-10-27
 reser-stadium,Reser Stadium,FBS,True,True,8,8,25,11,0,0,,2026-10-27
+rhodes-stadium,Rhodes Stadium,FCS,True,True,8,8,4,0,0,0,,2026-10-28
 rice-eccles-stadium,Rice–Eccles Stadium,FBS,True,True,8,8,30,6,0,0,,2026-10-27
+rice-totten-stadium,Rice–Totten Stadium,FCS,True,True,0,0,26,0,0,0,field centre outside stadium outline; seating not modeled,2026-10-28
+robert-k-kraft-field-at-lawrence-a-wien-stadium,Robert K. Kraft Field at Lawrence A. Wien Stadium,FCS,False,True,0,0,30,0,0,0,no stadium outline in OSM; seating not modeled,2026-10-28
 robert-w-plaster-stadium,Robert W. Plaster Stadium,FBS,True,True,8,8,30,1,0,0,,2026-10-27
+robert-and-janet-vackar-stadium,Robert and Janet Vackar Stadium,FCS,True,True,7,7,0,0,0,0,,2026-10-28
+roos-field,Roos Field,FCS,False,False,0,0,17,16,0,0,no stadium outline in OSM; seating not modeled,2026-10-28
 rose-bowl-stadium,Rose Bowl Stadium,FBS,True,True,8,8,4,1,0,0,,2026-10-27
+ross-ade-stadium,Ross–Ade Stadium,FBS,True,True,8,8,23,18,0,0,,2026-10-28
+roy-kidd-stadium,Roy Kidd Stadium,FCS,True,True,6,6,17,0,0,0,,2026-10-28
 ryan-field,Ryan Field,FBS,True,False,8,8,11,0,0,0,no playing field mapped; field assumed at 45% of outline,2026-10-27
 rynearson-stadium,Rynearson Stadium,FBS,True,True,8,8,11,1,0,0,,2026-10-27
 secu-stadium,SECU Stadium,FBS,True,True,8,8,30,41,0,0,,2026-10-27
 shi-stadium,SHI Stadium,FBS,True,True,8,8,5,0,0,0,,2026-10-27
 saban-field-at-bryant-denny-stadium,Saban Field at Bryant–Denny Stadium,FBS,True,True,8,8,30,0,0,0,,2026-10-27
+saluki-stadium,Saluki Stadium,FCS,True,True,7,7,16,0,0,0,,2026-10-28
 sanford-stadium,Sanford Stadium,FBS,True,True,8,8,30,12,0,0,,2026-10-27
 scheumann-stadium,Scheumann Stadium,FBS,True,True,8,8,7,0,0,0,,2026-10-27
+shell-energy-stadium,Shell Energy Stadium,FCS/MLS,True,True,8,8,30,0,0,0,,2026-10-28
+simmons-bank-field,Simmons Bank Field,FCS,True,True,7,7,21,0,0,0,,2026-10-28
 simmons-bank-liberty-stadium,Simmons Bank Liberty Stadium,FBS,True,True,8,8,15,0,0,0,,2026-10-27
+skelly-field-at-h-a-chapman-stadium,Skelly Field at H. A. Chapman Stadium,FBS,True,True,8,8,28,0,0,0,,2026-10-28
+snapdragon-stadium,Snapdragon Stadium,FBS/MLS,True,True,8,8,28,0,0,0,,2026-10-28
+sofi-stadium,SoFi Stadium,NFL,True,False,8,8,5,0,0,0,no playing field mapped; field assumed at 45% of outline; skylight roof: modeled plan applies when the roof is open,2026-10-28
+soldier-field,Soldier Field,NFL/MLS,True,True,8,8,5,49,0,0,,2026-10-28
+sonny-lubick-field-at-canvas-stadium,Sonny Lubick Field at Canvas Stadium,FBS,True,True,8,8,24,5,0,0,,2026-10-28
+spartan-stadium,Spartan Stadium,FBS,True,True,8,8,19,0,0,0,,2026-10-28
+spec-martin-municipal-stadium,Spec Martin Municipal Stadium,FCS,True,True,8,8,30,0,0,0,,2026-10-28
+stanford-stadium,Stanford Stadium,FBS,True,True,8,8,18,0,0,0,,2026-10-28
+state-farm-stadium,State Farm Stadium,NFL,True,False,8,8,7,0,0,0,no playing field mapped; field assumed at 45% of outline; retractable roof: modeled plan applies when the roof is open,2026-10-28
+steve-spurrier-florida-field-at-ben-hill-griffin-stadium,Steve Spurrier-Florida Field at Ben Hill Griffin Stadium,FBS,True,True,8,8,30,80,1,0,,2026-10-28
+strawberry-stadium,Strawberry Stadium,FCS,True,True,8,8,30,1,0,0,,2026-10-28
+sun-bowl-stadium,Sun Bowl Stadium,FBS,True,True,8,8,27,0,0,0,,2026-10-28
+sutter-health-park,Sutter Health Park,MLB,True,True,8,8,23,0,0,0,,2026-10-28
+t-mobile-park,T-Mobile Park,MLB,True,True,8,8,30,4,0,0,retractable roof: modeled plan applies when the roof is open,2026-10-28
+target-field,Target Field,MLB,True,True,8,8,30,19,1,0,,2026-10-28
+tenney-stadium-at-leonidoff-field,Tenney Stadium at Leonidoff Field,FCS,False,True,0,0,16,7,0,0,no stadium outline in OSM; seating not modeled,2026-10-28
+tiger-stadium,Tiger Stadium,FBS,True,True,8,8,30,0,0,0,,2026-10-28
+torero-stadium,Torero Stadium,FCS,False,True,0,0,30,4,0,0,no stadium outline in OSM; seating not modeled,2026-10-28
+tropicana-field,Tropicana Field,MLB,True,True,8,8,22,8,0,0,"domed venue: the bowl itself is enclosed; lightning shelter is mainly for plazas, lots and tailgates",2026-10-28
+truist-park,Truist Park,MLB,True,True,8,8,27,37,2,0,,2026-10-28
+truist-stadium,Truist Stadium,FCS,True,True,8,8,30,0,0,0,,2026-10-28
+tucker-stadium,Tucker Stadium,FCS,True,True,8,8,21,4,0,0,,2026-10-28
+u-s-bank-stadium,U.S. Bank Stadium,NFL,True,False,8,8,30,8,0,0,no playing field mapped; field assumed at 45% of outline; skylight roof: modeled plan applies when the roof is open,2026-10-28
+ub-stadium,UB Stadium,FBS,True,True,8,8,7,3,0,0,,2026-10-28
+university-stadium-albuquerque,University Stadium,FBS,True,True,8,8,19,1,0,0,,2026-10-28
+university-stadium-carrollton,University Stadium,FCS,False,False,0,0,4,0,0,0,no stadium outline in OSM; seating not modeled,2026-10-28
+vaught-hemingway-stadium-at-hollingsworth-field,Vaught–Hemingway Stadium at Hollingsworth Field,FBS,True,True,8,8,30,0,0,0,,2026-10-28
+veterans-memorial-stadium-at-larry-blakeney-field,Veterans Memorial Stadium at Larry Blakeney Field,FBS,True,True,8,8,26,0,0,0,,2026-10-28
+villanova-stadium,Villanova Stadium,FCS,True,True,8,8,18,1,0,0,,2026-10-28
+w-b-mason-stadium,W.B. Mason Stadium,FCS,False,True,0,0,11,0,0,0,no stadium outline in OSM; seating not modeled,2026-10-28
+wagner-college-stadium,Wagner College Stadium,FCS,False,True,0,0,7,0,0,0,no stadium outline in OSM; seating not modeled,2026-10-28
+waldo-stadium,Waldo Stadium,FBS,True,True,8,8,16,1,0,0,,2026-10-28
+walkup-skydome,Walkup Skydome,FCS,True,False,8,8,18,0,0,0,"no playing field mapped; field assumed at 45% of outline; domed venue: the bowl itself is enclosed; lightning shelter is mainly for plazas, lots and tailgates",2026-10-28
+warren-mcguirk-alumni-stadium,Warren McGuirk Alumni Stadium,FBS,True,True,7,6,4,0,0,0,,2026-10-28
+washington-grizzly-stadium,Washington–Grizzly Stadium,FCS,True,True,8,8,30,0,0,0,,2026-10-28
+wayne-day-family-field-at-carter-finley-stadium,Wayne Day Family Field at Carter–Finley Stadium,FBS,True,True,8,8,17,0,0,0,,2026-10-28
+wildcat-stadium,Wildcat Stadium,FCS,True,True,8,8,26,2,0,0,,2026-10-28
+william-dick-price-stadium,"William ""Dick"" Price Stadium",FCS,False,True,0,0,15,2,0,0,no stadium outline in OSM; seating not modeled,2026-10-28
+william-b-greene-jr-stadium,William B. Greene Jr. Stadium,FCS,True,True,8,8,7,0,0,0,,2026-10-28
 yulman-stadium,Yulman Stadium,FBS,True,True,0,0,27,0,0,0,field centre outside stadium outline; seating not modeled,2026-10-27
+zable-stadium,Zable Stadium,FCS,True,True,8,8,25,12,0,0,,2026-10-28
