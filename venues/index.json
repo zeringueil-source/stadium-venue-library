@@ -1,7 +1,7 @@
 {
 "schema": "vsp-layout/1",
-"generated": "2026-10-29T15:52:46+00:00",
-"count": 323,
+"generated": "2026-10-30T14:25:22+00:00",
+"count": 337,
 "venues": [
 {
 "slug": "a-w-mumford-stadium",
@@ -628,6 +628,30 @@
 "updated": "2026-10-27"
 },
 {
+"slug": "arute-field",
+"name": "Arute Field",
+"location": "New Britain, Connecticut",
+"leagues": "FCS",
+"teams": "Central Connecticut Blue Devils",
+"capacity": 5500,
+"roof": null,
+"lat": 41.69505,
+"lon": -72.76163,
+"coverage": {
+"outline": false,
+"outline_kind": "",
+"field": true,
+"modeled_zones": 0,
+"modeled_concourses": 0,
+"buildings": 13,
+"gates": 0,
+"elevators": 0,
+"notes": "no stadium outline in OSM; seating not modeled",
+"traced_features": 0
+},
+"updated": "2026-10-30"
+},
+{
 "slug": "audi-field",
 "name": "Audi Field",
 "location": "Washington, D.C.",
@@ -890,6 +914,30 @@
 "traced_features": 0
 },
 "updated": "2026-10-27"
+},
+{
+"slug": "bob-ford-field-at-tom-mary-casey-stadium",
+"name": "Bob Ford Field at Tom & Mary Casey Stadium",
+"location": "Albany, New York",
+"leagues": "FCS",
+"teams": "Albany Great Danes",
+"capacity": 8500,
+"roof": null,
+"lat": 42.68331,
+"lon": -73.82714,
+"coverage": {
+"outline": true,
+"outline_kind": "leisure",
+"field": false,
+"modeled_zones": 8,
+"modeled_concourses": 8,
+"buildings": 5,
+"gates": 0,
+"elevators": 0,
+"notes": "no playing field mapped; field assumed at 45% of outline",
+"traced_features": 0
+},
+"updated": "2026-10-30"
 },
 {
 "slug": "bobby-bowden-field-at-doak-s-campbell-stadium",
@@ -2380,6 +2428,30 @@
 "updated": "2026-10-28"
 },
 {
+"slug": "energizer-park",
+"name": "Energizer Park",
+"location": "St. Louis, Missouri",
+"leagues": "MLS",
+"teams": "St. Louis City SC",
+"capacity": 22423,
+"roof": "Open",
+"lat": 38.63139,
+"lon": -90.21028,
+"coverage": {
+"outline": true,
+"outline_kind": "leisure",
+"field": true,
+"modeled_zones": 8,
+"modeled_concourses": 8,
+"buildings": 30,
+"gates": 11,
+"elevators": 0,
+"notes": "",
+"traced_features": 0
+},
+"updated": "2026-10-30"
+},
+{
 "slug": "ernest-hawkins-field-at-memorial-stadium",
 "name": "Ernest Hawkins Field at Memorial Stadium",
 "location": "Commerce, Texas",
@@ -2498,6 +2570,30 @@
 "traced_features": 0
 },
 "updated": "2026-10-28"
+},
+{
+"slug": "fargodome",
+"name": "Fargodome",
+"location": "Fargo, ND",
+"leagues": "FBS",
+"teams": "North Dakota State",
+"capacity": 18700,
+"roof": "Dome",
+"lat": 46.90306,
+"lon": -96.80167,
+"coverage": {
+"outline": true,
+"outline_kind": "leisure",
+"field": false,
+"modeled_zones": 8,
+"modeled_concourses": 8,
+"buildings": 29,
+"gates": 4,
+"elevators": 0,
+"notes": "no playing field mapped; field assumed at 45% of outline; domed venue: the bowl itself is enclosed; lightning shelter is mainly for plazas, lots and tailgates",
+"traced_features": 0
+},
+"updated": "2026-10-30"
 },
 {
 "slug": "faurot-field-at-memorial-stadium",
@@ -3244,6 +3340,30 @@
 "updated": "2026-10-27"
 },
 {
+"slug": "hanson-field",
+"name": "Hanson Field",
+"location": "Macomb, Illinois",
+"leagues": "FCS",
+"teams": "Western Illinois Leathernecks",
+"capacity": 16368,
+"roof": null,
+"lat": 40.4684,
+"lon": -90.6842,
+"coverage": {
+"outline": true,
+"outline_kind": "leisure",
+"field": true,
+"modeled_zones": 8,
+"modeled_concourses": 8,
+"buildings": 30,
+"gates": 0,
+"elevators": 0,
+"notes": "",
+"traced_features": 0
+},
+"updated": "2026-10-30"
+},
+{
 "slug": "hard-rock-stadium",
 "name": "Hard Rock Stadium",
 "location": "Miami Gardens, FL",
@@ -3578,6 +3698,30 @@
 "traced_features": 0
 },
 "updated": "2026-10-28"
+},
+{
+"slug": "huntington-bank-stadium",
+"name": "Huntington Bank Stadium",
+"location": "Minneapolis, MN",
+"leagues": "FBS",
+"teams": "Minnesota",
+"capacity": 50805,
+"roof": null,
+"lat": 44.976,
+"lon": -93.225,
+"coverage": {
+"outline": true,
+"outline_kind": "leisure",
+"field": true,
+"modeled_zones": 8,
+"modeled_concourses": 8,
+"buildings": 30,
+"gates": 9,
+"elevators": 0,
+"notes": "",
+"traced_features": 0
+},
+"updated": "2026-10-30"
 },
 {
 "slug": "husky-stadium-seattle",
@@ -3938,6 +4082,30 @@
 "traced_features": 0
 },
 "updated": "2026-10-28"
+},
+{
+"slug": "jonah-field-at-war-memorial-stadium",
+"name": "Jonah Field at War Memorial Stadium",
+"location": "Laramie, WY",
+"leagues": "FBS",
+"teams": "Wyoming",
+"capacity": 29811,
+"roof": null,
+"lat": 41.312,
+"lon": -105.568,
+"coverage": {
+"outline": true,
+"outline_kind": "leisure",
+"field": true,
+"modeled_zones": 8,
+"modeled_concourses": 8,
+"buildings": 30,
+"gates": 0,
+"elevators": 0,
+"notes": "",
+"traced_features": 0
+},
+"updated": "2026-10-30"
 },
 {
 "slug": "kauffman-stadium",
@@ -5548,6 +5716,30 @@
 "updated": "2026-10-28"
 },
 {
+"slug": "pete-hanna-stadium",
+"name": "Pete Hanna Stadium",
+"location": "Homewood, Alabama",
+"leagues": "FCS",
+"teams": "Samford Bulldogs",
+"capacity": 6700,
+"roof": null,
+"lat": 33.46324,
+"lon": -86.79525,
+"coverage": {
+"outline": true,
+"outline_kind": "leisure",
+"field": true,
+"modeled_zones": 7,
+"modeled_concourses": 7,
+"buildings": 20,
+"gates": 2,
+"elevators": 0,
+"notes": "",
+"traced_features": 0
+},
+"updated": "2026-10-30"
+},
+{
 "slug": "phil-simms-stadium",
 "name": "Phil Simms Stadium",
 "location": "Morehead, Kentucky",
@@ -5786,6 +5978,30 @@
 "traced_features": 0
 },
 "updated": "2026-10-28"
+},
+{
+"slug": "rate-field",
+"name": "Rate Field",
+"location": "Chicago, Illinois",
+"leagues": "MLB",
+"teams": "Chicago White Sox",
+"capacity": 40615,
+"roof": "Open",
+"lat": 41.83,
+"lon": -87.63389,
+"coverage": {
+"outline": true,
+"outline_kind": "leisure",
+"field": true,
+"modeled_zones": 8,
+"modeled_concourses": 8,
+"buildings": 15,
+"gates": 0,
+"elevators": 2,
+"notes": "",
+"traced_features": 0
+},
+"updated": "2026-10-30"
 },
 {
 "slug": "raymond-james-stadium",
@@ -6700,6 +6916,54 @@
 "updated": "2026-10-29"
 },
 {
+"slug": "sports-illustrated-stadium",
+"name": "Sports Illustrated Stadium",
+"location": "Harrison, New Jersey",
+"leagues": "MLS",
+"teams": "New York Red Bulls",
+"capacity": 25000,
+"roof": "Open",
+"lat": 40.73667,
+"lon": -74.15028,
+"coverage": {
+"outline": true,
+"outline_kind": "leisure",
+"field": true,
+"modeled_zones": 8,
+"modeled_concourses": 8,
+"buildings": 2,
+"gates": 0,
+"elevators": 0,
+"notes": "",
+"traced_features": 0
+},
+"updated": "2026-10-30"
+},
+{
+"slug": "stambaugh-stadium",
+"name": "Stambaugh Stadium",
+"location": "Youngstown, Ohio",
+"leagues": "FCS",
+"teams": "Youngstown State Penguins",
+"capacity": 20650,
+"roof": null,
+"lat": 41.10946,
+"lon": -80.6493,
+"coverage": {
+"outline": true,
+"outline_kind": "leisure",
+"field": true,
+"modeled_zones": 6,
+"modeled_concourses": 6,
+"buildings": 24,
+"gates": 2,
+"elevators": 0,
+"notes": "",
+"traced_features": 0
+},
+"updated": "2026-10-30"
+},
+{
 "slug": "stanford-stadium",
 "name": "Stanford Stadium",
 "location": "Stanford, CA",
@@ -6818,6 +7082,30 @@
 "traced_features": 0
 },
 "updated": "2026-10-28"
+},
+{
+"slug": "subaru-park",
+"name": "Subaru Park",
+"location": "Chester, Pennsylvania",
+"leagues": "MLS",
+"teams": "Philadelphia Union",
+"capacity": 18500,
+"roof": "Open",
+"lat": 39.83222,
+"lon": -75.37889,
+"coverage": {
+"outline": true,
+"outline_kind": "leisure",
+"field": true,
+"modeled_zones": 8,
+"modeled_concourses": 8,
+"buildings": 2,
+"gates": 0,
+"elevators": 0,
+"notes": "",
+"traced_features": 0
+},
+"updated": "2026-10-30"
 },
 {
 "slug": "sun-bowl-stadium",
@@ -7276,6 +7564,30 @@
 "updated": "2026-10-28"
 },
 {
+"slug": "valley-children-s-stadium",
+"name": "Valley Children's Stadium",
+"location": "Fresno, CA",
+"leagues": "FBS",
+"teams": "Fresno State",
+"capacity": 40727,
+"roof": null,
+"lat": 36.814,
+"lon": -119.758,
+"coverage": {
+"outline": true,
+"outline_kind": "leisure",
+"field": true,
+"modeled_zones": 8,
+"modeled_concourses": 8,
+"buildings": 20,
+"gates": 0,
+"elevators": 0,
+"notes": "",
+"traced_features": 0
+},
+"updated": "2026-10-30"
+},
+{
 "slug": "vaught-hemingway-stadium-at-hollingsworth-field",
 "name": "Vaught–Hemingway Stadium at Hollingsworth Field",
 "location": "University, MS",
@@ -7706,6 +8018,30 @@
 "traced_features": 0
 },
 "updated": "2026-10-29"
+},
+{
+"slug": "yankee-stadium",
+"name": "Yankee Stadium",
+"location": "Bronx, New York",
+"leagues": "MLB/MLS",
+"teams": "New York Yankees/New York City FC",
+"capacity": 46537,
+"roof": "Open",
+"lat": 40.82917,
+"lon": -73.92639,
+"coverage": {
+"outline": true,
+"outline_kind": "leisure",
+"field": true,
+"modeled_zones": 8,
+"modeled_concourses": 8,
+"buildings": 30,
+"gates": 0,
+"elevators": 1,
+"notes": "",
+"traced_features": 0
+},
+"updated": "2026-10-30"
 },
 {
 "slug": "yulman-stadium",
