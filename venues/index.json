@@ -1,6 +1,6 @@
 {
 "schema": "vsp-layout/1",
-"generated": "2026-11-10T17:20:16+00:00",
+"generated": "2026-11-11T16:17:39+00:00",
 "count": 337,
 "venues": [
 {
@@ -73,7 +73,7 @@
 "notes": "retractable roof: modeled plan applies when the roof is open",
 "traced_features": 0
 },
-"updated": "2026-11-05"
+"updated": "2026-11-11"
 },
 {
 "slug": "acrisure-bounce-house",
@@ -769,7 +769,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-05"
+"updated": "2026-11-11"
 },
 {
 "slug": "barker-lane-stadium",
@@ -817,7 +817,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-05"
+"updated": "2026-11-11"
 },
 {
 "slug": "beirne-stadium",
@@ -889,7 +889,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-04"
+"updated": "2026-11-11"
 },
 {
 "slug": "blaik-field-at-michie-stadium",
@@ -937,7 +937,7 @@
 "notes": "no playing field mapped; field assumed at 45% of outline",
 "traced_features": 0
 },
-"updated": "2026-11-05"
+"updated": "2026-11-11"
 },
 {
 "slug": "bobby-bowden-field-at-doak-s-campbell-stadium",
@@ -1081,7 +1081,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-05"
+"updated": "2026-11-11"
 },
 {
 "slug": "bridgeforth-stadium",
@@ -1201,7 +1201,7 @@
 "notes": "no stadium outline in OSM; seating not modeled",
 "traced_features": 0
 },
-"updated": "2026-11-05"
+"updated": "2026-11-11"
 },
 {
 "slug": "brown-stadium",
@@ -1273,7 +1273,7 @@
 "notes": "no stadium outline in OSM; seating not modeled",
 "traced_features": 0
 },
-"updated": "2026-11-05"
+"updated": "2026-11-11"
 },
 {
 "slug": "burgess-snow-field-at-amfirst-stadium",
@@ -1393,7 +1393,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-04"
+"updated": "2026-11-11"
 },
 {
 "slug": "california-memorial-stadium",
@@ -1657,7 +1657,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-05"
+"updated": "2026-11-11"
 },
 {
 "slug": "citi-field",
@@ -1945,7 +1945,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-03"
+"updated": "2026-11-11"
 },
 {
 "slug": "darrell-k-royal-texas-memorial-stadium",
@@ -2449,7 +2449,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-05"
+"updated": "2026-11-11"
 },
 {
 "slug": "ernest-hawkins-field-at-memorial-stadium",
@@ -2761,7 +2761,7 @@
 "notes": "field centre outside stadium outline; seating not modeled",
 "traced_features": 0
 },
-"updated": "2026-11-05"
+"updated": "2026-11-11"
 },
 {
 "slug": "fitton-field",
@@ -2809,7 +2809,7 @@
 "notes": "no stadium outline in OSM; seating not modeled",
 "traced_features": 0
 },
-"updated": "2026-11-05"
+"updated": "2026-11-11"
 },
 {
 "slug": "folsom-field",
@@ -2833,7 +2833,7 @@
 "notes": "field centre outside stadium outline; seating not modeled",
 "traced_features": 0
 },
-"updated": "2026-11-05"
+"updated": "2026-11-11"
 },
 {
 "slug": "ford-field",
@@ -2857,7 +2857,7 @@
 "notes": "no playing field mapped; field assumed at 45% of outline; domed venue: the bowl itself is enclosed; lightning shelter is mainly for plazas, lots and tailgates",
 "traced_features": 0
 },
-"updated": "2026-11-05"
+"updated": "2026-11-11"
 },
 {
 "slug": "fortera-stadium",
@@ -3025,7 +3025,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-04"
+"updated": "2026-11-11"
 },
 {
 "slug": "gaylord-family-oklahoma-memorial-stadium",
@@ -3361,7 +3361,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-05"
+"updated": "2026-11-11"
 },
 {
 "slug": "hard-rock-stadium",
@@ -3481,7 +3481,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-05"
+"updated": "2026-11-11"
 },
 {
 "slug": "highmark-stadium",
@@ -3721,7 +3721,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-05"
+"updated": "2026-11-11"
 },
 {
 "slug": "husky-stadium-seattle",
@@ -3985,7 +3985,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-05"
+"updated": "2026-11-11"
 },
 {
 "slug": "john-o-quinn-field-at-space-city-financial-stadium",
@@ -4105,7 +4105,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-05"
+"updated": "2026-11-11"
 },
 {
 "slug": "kauffman-stadium",
@@ -4561,7 +4561,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-04"
+"updated": "2026-11-11"
 },
 {
 "slug": "lucas-oil-stadium",
@@ -5233,7 +5233,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-05"
+"updated": "2026-11-11"
 },
 {
 "slug": "nissan-stadium",
@@ -5377,7 +5377,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-05"
+"updated": "2026-11-11"
 },
 {
 "slug": "o-shaughnessy-stadium",
@@ -5665,7 +5665,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-04"
+"updated": "2026-11-11"
 },
 {
 "slug": "paycor-stadium",
@@ -5737,7 +5737,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-05"
+"updated": "2026-11-11"
 },
 {
 "slug": "phil-simms-stadium",
@@ -6001,7 +6001,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-05"
+"updated": "2026-11-11"
 },
 {
 "slug": "raymond-james-stadium",
@@ -6841,7 +6841,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-05"
+"updated": "2026-11-11"
 },
 {
 "slug": "spartan-stadium",
@@ -6937,7 +6937,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-05"
+"updated": "2026-11-11"
 },
 {
 "slug": "stambaugh-stadium",
@@ -6961,7 +6961,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-05"
+"updated": "2026-11-11"
 },
 {
 "slug": "stanford-stadium",
@@ -7129,7 +7129,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-05"
+"updated": "2026-11-11"
 },
 {
 "slug": "sutter-health-park",
@@ -7177,7 +7177,7 @@
 "notes": "retractable roof: modeled plan applies when the roof is open",
 "traced_features": 0
 },
-"updated": "2026-11-05"
+"updated": "2026-11-11"
 },
 {
 "slug": "tql-stadium",
@@ -7585,7 +7585,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-05"
+"updated": "2026-11-11"
 },
 {
 "slug": "vaught-hemingway-stadium-at-hollingsworth-field",
@@ -7777,7 +7777,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-03"
+"updated": "2026-11-11"
 },
 {
 "slug": "washington-grizzly-stadium",
@@ -7849,7 +7849,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-05"
+"updated": "2026-11-11"
 },
 {
 "slug": "wildcat-stadium",
@@ -7993,7 +7993,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-05"
+"updated": "2026-11-11"
 },
 {
 "slug": "yale-bowl",
@@ -8041,7 +8041,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-05"
+"updated": "2026-11-11"
 },
 {
 "slug": "yulman-stadium",
