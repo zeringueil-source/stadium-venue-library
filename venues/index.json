@@ -1,6 +1,6 @@
 {
 "schema": "vsp-layout/1",
-"generated": "2026-11-15T17:36:24+00:00",
+"generated": "2026-11-16T19:33:41+00:00",
 "count": 337,
 "venues": [
 {
@@ -25,7 +25,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "asu-stadium",
@@ -145,7 +145,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-09"
+"updated": "2026-11-16"
 },
 {
 "slug": "alamodome",
@@ -457,7 +457,7 @@
 "notes": "retractable roof: modeled plan applies when the roof is open",
 "traced_features": 0
 },
-"updated": "2026-11-09"
+"updated": "2026-11-16"
 },
 {
 "slug": "amon-g-carter-stadium",
@@ -529,7 +529,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "armstrong-stadium",
@@ -553,7 +553,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "arrowhead-stadium",
@@ -601,7 +601,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "arthur-l-williams-stadium",
@@ -721,7 +721,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "bailey-memorial-stadium",
@@ -745,7 +745,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "bank-of-america-stadium",
@@ -865,7 +865,7 @@
 "notes": "no stadium outline in OSM; seating not modeled",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "bill-snyder-family-football-stadium",
@@ -955,13 +955,13 @@
 "field": true,
 "modeled_zones": 8,
 "modeled_concourses": 8,
-"buildings": 23,
+"buildings": 24,
 "gates": 0,
 "elevators": 0,
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-09"
+"updated": "2026-11-16"
 },
 {
 "slug": "bobby-dodd-stadium-at-hyundai-field",
@@ -1129,7 +1129,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-09"
+"updated": "2026-11-16"
 },
 {
 "slug": "brooks-field-at-wallace-wade-stadium",
@@ -1225,7 +1225,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "buccaneer-field",
@@ -1321,7 +1321,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "cefcu-stadium",
@@ -1465,7 +1465,7 @@
 "notes": "no stadium outline in OSM; seating not modeled",
 "traced_features": 0
 },
-"updated": "2026-11-09"
+"updated": "2026-11-16"
 },
 {
 "slug": "carl-smith-center-home-of-david-a-harrison-iii-field-at-scott-stadium",
@@ -1513,7 +1513,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "casem-spinks-stadium",
@@ -1681,7 +1681,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "citizens-bank-park",
@@ -1801,7 +1801,7 @@
 "notes": "no stadium outline in OSM; seating not modeled",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "coors-field",
@@ -1825,7 +1825,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "crown-field-at-andy-kerr-stadium",
@@ -1849,7 +1849,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "datcu-stadium",
@@ -1897,7 +1897,7 @@
 "notes": "retractable roof: modeled plan applies when the roof is open",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "dakotadome",
@@ -2041,7 +2041,7 @@
 "notes": "no stadium outline in OSM; seating not modeled",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "delaware-stadium",
@@ -2089,7 +2089,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-09"
+"updated": "2026-11-16"
 },
 {
 "slug": "dignity-health-sports-park",
@@ -2113,7 +2113,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "dix-stadium",
@@ -2305,7 +2305,7 @@
 "notes": "no stadium outline in OSM; seating not modeled",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "e-j-whitmire-stadium",
@@ -2377,7 +2377,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "elliott-t-bowers-stadium",
@@ -2425,7 +2425,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "energizer-park",
@@ -2473,7 +2473,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-09"
+"updated": "2026-11-16"
 },
 {
 "slug": "ernest-w-spangler-stadium",
@@ -2641,7 +2641,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-09"
+"updated": "2026-11-16"
 },
 {
 "slug": "fifth-third-stadium",
@@ -2665,7 +2665,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "finley-stadium",
@@ -2785,7 +2785,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "five-star-stadium-at-the-moye-complex",
@@ -2953,7 +2953,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "fred-c-yager-stadium",
@@ -3121,7 +3121,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "gies-memorial-stadium",
@@ -3241,7 +3241,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "great-american-ball-park",
@@ -3265,7 +3265,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "greater-zion-stadium",
@@ -3313,7 +3313,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "hancock-whitney-stadium",
@@ -3409,7 +3409,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "harlen-c-hunter-stadium",
@@ -3433,7 +3433,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "harry-turpin-stadium",
@@ -3529,7 +3529,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "homer-bryce-stadium",
@@ -3553,7 +3553,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "hornet-stadium",
@@ -3625,7 +3625,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "howard-schnellenberger-field-at-flagler-credit-union-stadium",
@@ -3769,7 +3769,7 @@
 "notes": "no stadium outline in OSM; seating not modeled",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "iccu-dome",
@@ -3841,7 +3841,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-09"
+"updated": "2026-11-16"
 },
 {
 "slug": "jma-wireless-dome",
@@ -4129,7 +4129,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-09"
+"updated": "2026-11-16"
 },
 {
 "slug": "kenan-stadium",
@@ -4201,7 +4201,7 @@
 "notes": "no stadium outline in OSM; seating not modeled",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "kidd-brewer-stadium",
@@ -4273,7 +4273,7 @@
 "notes": "field centre outside stadium outline; seating not modeled",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "kramer-deromedi-field-at-kelly-shorts-stadium",
@@ -4297,7 +4297,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "kroger-field-at-c-m-newton-grounds",
@@ -4369,7 +4369,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "lavell-edwards-stadium",
@@ -4633,7 +4633,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "mackay-stadium",
@@ -4945,7 +4945,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "merlin-olsen-field-at-maverik-stadium",
@@ -5041,7 +5041,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "mountain-america-stadium",
@@ -5113,7 +5113,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-09"
+"updated": "2026-11-16"
 },
 {
 "slug": "nationals-park",
@@ -5137,7 +5137,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-09"
+"updated": "2026-11-16"
 },
 {
 "slug": "navarre-stadium",
@@ -5161,7 +5161,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "navy-marine-corps-memorial-stadium",
@@ -5257,7 +5257,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "northwest-stadium",
@@ -5281,7 +5281,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-09"
+"updated": "2026-11-16"
 },
 {
 "slug": "notre-dame-stadium",
@@ -5353,7 +5353,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "o-kelly-riddick-stadium",
@@ -5425,7 +5425,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "oliver-c-dawson-stadium",
@@ -5449,7 +5449,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-09"
+"updated": "2026-11-16"
 },
 {
 "slug": "oracle-park",
@@ -5473,7 +5473,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-09"
+"updated": "2026-11-16"
 },
 {
 "slug": "oriole-park-at-camden-yards",
@@ -5497,7 +5497,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "o-brien-field",
@@ -5545,7 +5545,7 @@
 "notes": "field centre outside stadium outline; seating not modeled",
 "traced_features": 0
 },
-"updated": "2026-11-09"
+"updated": "2026-11-16"
 },
 {
 "slug": "pnc-park",
@@ -5593,7 +5593,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-09"
+"updated": "2026-11-16"
 },
 {
 "slug": "panther-stadium",
@@ -5617,7 +5617,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-09"
+"updated": "2026-11-16"
 },
 {
 "slug": "pat-dye-field-at-jordan-hare-stadium",
@@ -5641,7 +5641,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-09"
+"updated": "2026-11-16"
 },
 {
 "slug": "paypal-park",
@@ -6049,7 +6049,7 @@
 "notes": "no playing field mapped; field assumed at 45% of outline; retractable roof: modeled plan applies when the roof is open",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "reser-stadium",
@@ -6097,7 +6097,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "rice-eccles-stadium",
@@ -6145,7 +6145,7 @@
 "notes": "field centre outside stadium outline; seating not modeled",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "richardson-stadium",
@@ -6169,7 +6169,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "robert-k-kraft-field-at-lawrence-a-wien-stadium",
@@ -6481,7 +6481,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "saluki-stadium",
@@ -6505,7 +6505,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-09"
+"updated": "2026-11-16"
 },
 {
 "slug": "sanford-stadium",
@@ -6553,7 +6553,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "scheumann-stadium",
@@ -6601,7 +6601,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "scottsmiracle-gro-field",
@@ -6625,7 +6625,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "seatgeek-stadium",
@@ -6649,7 +6649,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "shell-energy-stadium",
@@ -6793,7 +6793,7 @@
 "notes": "no playing field mapped; field assumed at 45% of outline; skylight roof: modeled plan applies when the roof is open",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "soldier-field",
@@ -6889,7 +6889,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "sporting-park",
@@ -6908,12 +6908,12 @@
 "modeled_zones": 8,
 "modeled_concourses": 8,
 "buildings": 17,
-"gates": 4,
+"gates": 10,
 "elevators": 0,
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "sports-illustrated-stadium",
@@ -7033,7 +7033,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "stewart-stadium",
@@ -7057,7 +7057,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "strawberry-stadium",
@@ -7081,7 +7081,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "subaru-park",
@@ -7201,7 +7201,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "target-field",
@@ -7321,7 +7321,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "tropicana-field",
@@ -7369,7 +7369,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-09"
+"updated": "2026-11-16"
 },
 {
 "slug": "truist-stadium",
@@ -7417,7 +7417,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "u-s-bank-stadium",
@@ -7513,7 +7513,7 @@
 "notes": "no playing field mapped; field assumed at 45% of outline; domed venue: the bowl itself is enclosed; lightning shelter is mainly for plazas, lots and tailgates",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "university-stadium-albuquerque",
@@ -7537,7 +7537,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-09"
+"updated": "2026-11-16"
 },
 {
 "slug": "university-stadium-carrollton",
@@ -7681,7 +7681,7 @@
 "notes": "no stadium outline in OSM; seating not modeled",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "wagner-college-stadium",
@@ -7801,7 +7801,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "wayne-day-family-field-at-carter-finley-stadium",
@@ -7921,7 +7921,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-09"
+"updated": "2026-11-16"
 },
 {
 "slug": "william-h-greene-stadium",
@@ -7945,7 +7945,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "williams-brice-stadium",
@@ -7969,7 +7969,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-16"
 },
 {
 "slug": "wrigley-field",
