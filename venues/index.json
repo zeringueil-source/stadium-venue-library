@@ -1,6 +1,6 @@
 {
 "schema": "vsp-layout/1",
-"generated": "2026-11-16T19:33:41+00:00",
+"generated": "2026-11-17T18:16:25+00:00",
 "count": 337,
 "venues": [
 {
@@ -73,7 +73,7 @@
 "notes": "retractable roof: modeled plan applies when the roof is open",
 "traced_features": 0
 },
-"updated": "2026-11-11"
+"updated": "2026-11-17"
 },
 {
 "slug": "acrisure-bounce-house",
@@ -241,7 +241,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-17"
 },
 {
 "slug": "allegacy-federal-credit-union-stadium",
@@ -769,7 +769,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-11"
+"updated": "2026-11-17"
 },
 {
 "slug": "barker-lane-stadium",
@@ -793,7 +793,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-17"
 },
 {
 "slug": "beaver-stadium",
@@ -841,7 +841,7 @@
 "notes": "no stadium outline in OSM; seating not modeled",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-17"
 },
 {
 "slug": "bethpage-federal-credit-union-stadium",
@@ -937,7 +937,7 @@
 "notes": "no playing field mapped; field assumed at 45% of outline",
 "traced_features": 0
 },
-"updated": "2026-11-11"
+"updated": "2026-11-17"
 },
 {
 "slug": "bobby-bowden-field-at-doak-s-campbell-stadium",
@@ -1081,7 +1081,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-11"
+"updated": "2026-11-17"
 },
 {
 "slug": "bridgeforth-stadium",
@@ -1201,7 +1201,7 @@
 "notes": "no stadium outline in OSM; seating not modeled",
 "traced_features": 0
 },
-"updated": "2026-11-11"
+"updated": "2026-11-17"
 },
 {
 "slug": "brown-stadium",
@@ -1273,7 +1273,7 @@
 "notes": "no stadium outline in OSM; seating not modeled",
 "traced_features": 0
 },
-"updated": "2026-11-11"
+"updated": "2026-11-17"
 },
 {
 "slug": "burgess-snow-field-at-amfirst-stadium",
@@ -1393,7 +1393,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-11"
+"updated": "2026-11-17"
 },
 {
 "slug": "california-memorial-stadium",
@@ -1657,7 +1657,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-11"
+"updated": "2026-11-17"
 },
 {
 "slug": "citi-field",
@@ -1945,7 +1945,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-11"
+"updated": "2026-11-17"
 },
 {
 "slug": "darrell-k-royal-texas-memorial-stadium",
@@ -2761,7 +2761,7 @@
 "notes": "field centre outside stadium outline; seating not modeled",
 "traced_features": 0
 },
-"updated": "2026-11-11"
+"updated": "2026-11-17"
 },
 {
 "slug": "fitton-field",
@@ -2809,7 +2809,7 @@
 "notes": "no stadium outline in OSM; seating not modeled",
 "traced_features": 0
 },
-"updated": "2026-11-11"
+"updated": "2026-11-17"
 },
 {
 "slug": "folsom-field",
@@ -2833,7 +2833,7 @@
 "notes": "field centre outside stadium outline; seating not modeled",
 "traced_features": 0
 },
-"updated": "2026-11-11"
+"updated": "2026-11-17"
 },
 {
 "slug": "ford-field",
@@ -3025,7 +3025,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-11"
+"updated": "2026-11-17"
 },
 {
 "slug": "gaylord-family-oklahoma-memorial-stadium",
@@ -3217,7 +3217,7 @@
 "notes": "no playing field mapped; field assumed at 45% of outline; retractable roof: modeled plan applies when the roof is open",
 "traced_features": 0
 },
-"updated": "2026-11-09"
+"updated": "2026-11-17"
 },
 {
 "slug": "goodman-stadium",
@@ -3361,7 +3361,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-11"
+"updated": "2026-11-17"
 },
 {
 "slug": "hard-rock-stadium",
@@ -3457,7 +3457,7 @@
 "notes": "no stadium outline in OSM; seating not modeled",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-17"
 },
 {
 "slug": "harvard-stadium",
@@ -3481,7 +3481,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-11"
+"updated": "2026-11-17"
 },
 {
 "slug": "highmark-stadium",
@@ -3505,7 +3505,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-17"
 },
 {
 "slug": "hillsboro-stadium",
@@ -3721,7 +3721,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-11"
+"updated": "2026-11-17"
 },
 {
 "slug": "husky-stadium-seattle",
@@ -4105,7 +4105,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-11"
+"updated": "2026-11-17"
 },
 {
 "slug": "kauffman-stadium",
@@ -4561,7 +4561,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-11"
+"updated": "2026-11-17"
 },
 {
 "slug": "lucas-oil-stadium",
@@ -5377,7 +5377,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-11"
+"updated": "2026-11-17"
 },
 {
 "slug": "o-shaughnessy-stadium",
@@ -5665,7 +5665,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-11"
+"updated": "2026-11-17"
 },
 {
 "slug": "paycor-stadium",
@@ -5737,7 +5737,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-11"
+"updated": "2026-11-17"
 },
 {
 "slug": "phil-simms-stadium",
@@ -5953,7 +5953,7 @@
 "notes": "no stadium outline in OSM; seating not modeled",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-17"
 },
 {
 "slug": "ralph-f-dellacamera-stadium",
@@ -6001,7 +6001,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-11"
+"updated": "2026-11-17"
 },
 {
 "slug": "raymond-james-stadium",
@@ -6937,7 +6937,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-11"
+"updated": "2026-11-17"
 },
 {
 "slug": "stambaugh-stadium",
@@ -6961,7 +6961,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-11"
+"updated": "2026-11-17"
 },
 {
 "slug": "stanford-stadium",
@@ -6985,7 +6985,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-17"
 },
 {
 "slug": "state-farm-stadium",
@@ -7609,7 +7609,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-17"
 },
 {
 "slug": "veterans-memorial-stadium-at-larry-blakeney-field",
@@ -7777,7 +7777,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-11"
+"updated": "2026-11-17"
 },
 {
 "slug": "washington-grizzly-stadium",
@@ -7897,7 +7897,7 @@
 "notes": "no stadium outline in OSM; seating not modeled",
 "traced_features": 0
 },
-"updated": "2026-11-09"
+"updated": "2026-11-17"
 },
 {
 "slug": "william-b-greene-jr-stadium",
@@ -7993,7 +7993,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-11"
+"updated": "2026-11-17"
 },
 {
 "slug": "yale-bowl",
@@ -8041,7 +8041,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-11"
+"updated": "2026-11-17"
 },
 {
 "slug": "yulman-stadium",
