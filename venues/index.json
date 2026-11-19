@@ -1,6 +1,6 @@
 {
 "schema": "vsp-layout/1",
-"generated": "2026-11-18T17:07:36+00:00",
+"generated": "2026-11-19T16:48:12+00:00",
 "count": 337,
 "venues": [
 {
@@ -817,7 +817,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-11"
+"updated": "2026-11-19"
 },
 {
 "slug": "beirne-stadium",
@@ -2737,7 +2737,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-10"
+"updated": "2026-11-19"
 },
 {
 "slug": "fisher-stadium",
@@ -3985,7 +3985,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-11"
+"updated": "2026-11-19"
 },
 {
 "slug": "john-o-quinn-field-at-space-city-financial-stadium",
@@ -5233,7 +5233,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-11"
+"updated": "2026-11-19"
 },
 {
 "slug": "nissan-stadium",
@@ -5905,7 +5905,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-13"
+"updated": "2026-11-19"
 },
 {
 "slug": "provost-umphrey-stadium",
@@ -7105,7 +7105,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-12"
+"updated": "2026-11-19"
 },
 {
 "slug": "sun-bowl-stadium",
@@ -7753,7 +7753,7 @@
 "notes": "no playing field mapped; field assumed at 45% of outline; domed venue: the bowl itself is enclosed; lightning shelter is mainly for plazas, lots and tailgates",
 "traced_features": 0
 },
-"updated": "2026-11-12"
+"updated": "2026-11-19"
 },
 {
 "slug": "warren-mcguirk-alumni-stadium",
