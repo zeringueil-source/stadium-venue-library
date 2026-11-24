@@ -1,6 +1,6 @@
 {
 "schema": "vsp-layout/1",
-"generated": "2026-11-23T20:47:39+00:00",
+"generated": "2026-11-24T19:45:01+00:00",
 "count": 337,
 "venues": [
 {
@@ -889,7 +889,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-18"
+"updated": "2026-11-24"
 },
 {
 "slug": "blaik-field-at-michie-stadium",
@@ -1081,7 +1081,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-17"
+"updated": "2026-11-24"
 },
 {
 "slug": "bridgeforth-stadium",
@@ -2593,7 +2593,7 @@
 "notes": "no playing field mapped; field assumed at 45% of outline; domed venue: the bowl itself is enclosed; lightning shelter is mainly for plazas, lots and tailgates",
 "traced_features": 0
 },
-"updated": "2026-11-12"
+"updated": "2026-11-24"
 },
 {
 "slug": "faurot-field-at-memorial-stadium",
@@ -2857,7 +2857,7 @@
 "notes": "no playing field mapped; field assumed at 45% of outline; domed venue: the bowl itself is enclosed; lightning shelter is mainly for plazas, lots and tailgates",
 "traced_features": 0
 },
-"updated": "2026-11-18"
+"updated": "2026-11-24"
 },
 {
 "slug": "fortera-stadium",
@@ -3313,7 +3313,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-16"
+"updated": "2026-11-24"
 },
 {
 "slug": "hancock-whitney-stadium",
@@ -3553,7 +3553,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-16"
+"updated": "2026-11-24"
 },
 {
 "slug": "hornet-stadium",
@@ -4081,7 +4081,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-15"
+"updated": "2026-11-24"
 },
 {
 "slug": "jonah-field-at-war-memorial-stadium",
@@ -4513,7 +4513,7 @@
 "notes": "no playing field mapped; field assumed at 45% of outline; retractable roof: modeled plan applies when the roof is open",
 "traced_features": 0
 },
-"updated": "2026-11-18"
+"updated": "2026-11-24"
 },
 {
 "slug": "los-angeles-memorial-coliseum",
@@ -5377,7 +5377,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-17"
+"updated": "2026-11-24"
 },
 {
 "slug": "o-shaughnessy-stadium",
@@ -5617,7 +5617,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-16"
+"updated": "2026-11-24"
 },
 {
 "slug": "pat-dye-field-at-jordan-hare-stadium",
@@ -6361,7 +6361,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-18"
+"updated": "2026-11-24"
 },
 {
 "slug": "ryan-field",
@@ -6553,7 +6553,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-16"
+"updated": "2026-11-24"
 },
 {
 "slug": "scheumann-stadium",
@@ -6697,7 +6697,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-18"
+"updated": "2026-11-24"
 },
 {
 "slug": "simmons-bank-liberty-stadium",
@@ -6841,7 +6841,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-18"
+"updated": "2026-11-24"
 },
 {
 "slug": "spartan-stadium",
@@ -6961,7 +6961,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-17"
+"updated": "2026-11-24"
 },
 {
 "slug": "stanford-stadium",
@@ -6985,7 +6985,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-17"
+"updated": "2026-11-24"
 },
 {
 "slug": "state-farm-stadium",
@@ -7129,7 +7129,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-18"
+"updated": "2026-11-24"
 },
 {
 "slug": "sutter-health-park",
@@ -7177,7 +7177,7 @@
 "notes": "retractable roof: modeled plan applies when the roof is open",
 "traced_features": 0
 },
-"updated": "2026-11-18"
+"updated": "2026-11-24"
 },
 {
 "slug": "tql-stadium",
@@ -7201,7 +7201,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-16"
+"updated": "2026-11-24"
 },
 {
 "slug": "target-field",
@@ -7585,7 +7585,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-18"
+"updated": "2026-11-24"
 },
 {
 "slug": "vaught-hemingway-stadium-at-hollingsworth-field",
@@ -7633,7 +7633,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-18"
+"updated": "2026-11-24"
 },
 {
 "slug": "villanova-stadium",
