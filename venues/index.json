@@ -1,6 +1,6 @@
 {
 "schema": "vsp-layout/1",
-"generated": "2026-11-24T19:45:01+00:00",
+"generated": "2026-11-25T18:27:22+00:00",
 "count": 337,
 "venues": [
 {
@@ -649,7 +649,7 @@
 "notes": "no stadium outline in OSM; seating not modeled",
 "traced_features": 0
 },
-"updated": "2026-11-18"
+"updated": "2026-11-25"
 },
 {
 "slug": "audi-field",
@@ -817,7 +817,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-19"
+"updated": "2026-11-25"
 },
 {
 "slug": "beirne-stadium",
@@ -2444,12 +2444,12 @@
 "modeled_zones": 8,
 "modeled_concourses": 8,
 "buildings": 30,
-"gates": 11,
+"gates": 13,
 "elevators": 0,
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-18"
+"updated": "2026-11-25"
 },
 {
 "slug": "ernest-hawkins-field-at-memorial-stadium",
@@ -3985,7 +3985,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-19"
+"updated": "2026-11-25"
 },
 {
 "slug": "john-o-quinn-field-at-space-city-financial-stadium",
@@ -5233,7 +5233,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-19"
+"updated": "2026-11-25"
 },
 {
 "slug": "nissan-stadium",
@@ -5665,7 +5665,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-17"
+"updated": "2026-11-25"
 },
 {
 "slug": "paycor-stadium",
@@ -5905,7 +5905,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-19"
+"updated": "2026-11-25"
 },
 {
 "slug": "provost-umphrey-stadium",
@@ -6001,7 +6001,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-17"
+"updated": "2026-11-25"
 },
 {
 "slug": "raymond-james-stadium",
@@ -7609,7 +7609,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-17"
+"updated": "2026-11-25"
 },
 {
 "slug": "veterans-memorial-stadium-at-larry-blakeney-field",
@@ -7849,7 +7849,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-18"
+"updated": "2026-11-25"
 },
 {
 "slug": "wildcat-stadium",
@@ -8017,7 +8017,7 @@
 "notes": "",
 "traced_features": 0
 },
-"updated": "2026-11-18"
+"updated": "2026-11-25"
 },
 {
 "slug": "yankee-stadium",
