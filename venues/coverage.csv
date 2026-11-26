@@ -321,7 +321,7 @@ villanova-stadium,Villanova Stadium,FCS,True,True,8,8,18,1,0,0,,2026-11-22
 w-b-mason-stadium,W.B. Mason Stadium,FCS,False,True,0,0,11,0,0,0,no stadium outline in OSM; seating not modeled,2026-11-22
 wagner-college-stadium,Wagner College Stadium,FCS,False,True,0,0,7,0,0,0,no stadium outline in OSM; seating not modeled,2026-11-21
 waldo-stadium,Waldo Stadium,FBS,True,True,8,8,16,1,0,0,,2026-11-21
-walkup-skydome,Walkup Skydome,FCS,True,False,8,8,18,0,0,0,"no playing field mapped; field assumed at 45% of outline; domed venue: the bowl itself is enclosed; lightning shelter is mainly for plazas, lots and tailgates",2026-11-19
+walkup-skydome,Walkup Skydome,FCS,True,False,8,8,18,0,0,0,"no playing field mapped; field assumed at 45% of outline; domed venue: the bowl itself is enclosed; lightning shelter is mainly for plazas, lots and tailgates",2026-11-26
 warren-mcguirk-alumni-stadium,Warren McGuirk Alumni Stadium,FBS,True,True,7,6,4,0,0,0,,2026-11-23
 washington-grizzly-stadium,Washington–Grizzly Stadium,FCS,True,True,8,8,30,0,0,0,,2026-11-23
 wayne-day-family-field-at-carter-finley-stadium,Wayne Day Family Field at Carter–Finley Stadium,FBS,True,True,8,8,17,0,0,0,,2026-11-21

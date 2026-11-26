@@ -1,6 +1,6 @@
 {
 "schema": "vsp-layout/1",
-"generated": "2026-11-25T18:27:22+00:00",
+"generated": "2026-11-26T18:11:14+00:00",
 "count": 337,
 "venues": [
 {
@@ -7753,7 +7753,7 @@
 "notes": "no playing field mapped; field assumed at 45% of outline; domed venue: the bowl itself is enclosed; lightning shelter is mainly for plazas, lots and tailgates",
 "traced_features": 0
 },
-"updated": "2026-11-19"
+"updated": "2026-11-26"
 },
 {
 "slug": "warren-mcguirk-alumni-stadium",
